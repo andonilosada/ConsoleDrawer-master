@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ConsoleDrawer\\ConsoleDrawer.csproj": {}
+    "C:\\ConsoleDrawer-master\\ConsoleDrawer.csproj": {}
   },
   "projects": {
-    "C:\\ConsoleDrawer\\ConsoleDrawer.csproj": {
+    "C:\\ConsoleDrawer-master\\ConsoleDrawer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ConsoleDrawer\\ConsoleDrawer.csproj",
+        "projectUniqueName": "C:\\ConsoleDrawer-master\\ConsoleDrawer.csproj",
         "projectName": "ConsoleDrawer",
-        "projectPath": "C:\\ConsoleDrawer\\ConsoleDrawer.csproj",
-        "packagesPath": "C:\\Users\\Andoni\\.nuget\\packages\\",
-        "outputPath": "C:\\ConsoleDrawer\\obj\\",
+        "projectPath": "C:\\ConsoleDrawer-master\\ConsoleDrawer.csproj",
+        "packagesPath": "C:\\Users\\andonilosadaanasagas\\.nuget\\packages\\",
+        "outputPath": "C:\\ConsoleDrawer-master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andoni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\andonilosadaanasagas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

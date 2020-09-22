@@ -8,7 +8,7 @@ namespace ConsoleDrawer {
         public Dibujo(){
 
          _figuras = new Figura[10];
-         _figuras[0] = new Texto(10, 5, "Hola a todos");
+         _figuras[0] = new Texto(10, 5, "Hola a todos los aficionados a C#");
          
         }
 
